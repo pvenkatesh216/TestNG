@@ -28,6 +28,7 @@ public class FbSS {
 	  FileUtils.copyFile(src, new File("./Screenshots/fb.png"));
 	  
 	  System.out.println("SS Taken");
+	  System.out.println("Welcome");
 	  d.quit();
 	    
   }
