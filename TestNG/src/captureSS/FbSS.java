@@ -29,6 +29,7 @@ public class FbSS {
 	  
 	  System.out.println("SS Taken");
 	  System.out.println("Welcome");
+	  System.out.println("Welcome new");
 	  d.quit();
 	    
   }
